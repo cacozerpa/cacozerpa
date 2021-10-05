@@ -29,7 +29,7 @@ I like to always improve myself and keep learning new technologies.
     <li>zerpa2007@hotmail.com</li>
     <li>carlos.zerpau1998@gmail.com</li>
   </ul>
-  
+  ![counter](https://enxf8byei2cc1ln.m.pipedream.net)
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cacozerpa)](https://github.com/cacozerpa/github-readme-stats)
 
 <!--
