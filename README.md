@@ -2,7 +2,7 @@
 
 <hr>
 
-My name is <strong>Carlos Zerpa</strong>, I'm a Computer Engineerm currently working at Yakera Inc. as a back-end/full-stack web developer.
+My name is <strong>Carlos Zerpa</strong>, I'm a Computer Engineer currently working at Yakera Inc. as a back-end/full-stack web developer.
 I like to always improve myself and keep learning new technologies.
 <h1>Skills 💼</h1>
 <hr>
